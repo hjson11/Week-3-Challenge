@@ -14,7 +14,5 @@ elif ch == '*':
     result = num1*num2;
 elif ch == '/':
     result = num1/num2;
-else:
-    print("char's not supported");
         
 print(num1,ch,num2,": ",result)
