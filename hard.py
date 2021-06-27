@@ -15,6 +15,6 @@ elif ch == '*':
 elif ch == '/':
     result = num1/num2;
 else:
-    print("char is not supported");
+    print("char's not supported");
         
 print(num1,ch,num2,": ",result)

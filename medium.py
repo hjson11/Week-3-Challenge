@@ -2,7 +2,7 @@ def shout(phrase):
     if phrase == phrase.upper():
         return "YOU'RE SHOUTING!"
     else:
-        return "Can you speak up?"
+        return "Can you speak louder?"
 
 shout("HELLO WORLD")
 
